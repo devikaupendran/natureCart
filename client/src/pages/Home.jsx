@@ -12,6 +12,7 @@ const Home = () => {
          <Categories />
          <BestSeller />
          <BottomBanner />
+         <NewsLetter />
       </div>
    )
 }
