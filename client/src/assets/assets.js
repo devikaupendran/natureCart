@@ -26,7 +26,7 @@ import black_arrow from "./black_arrow.svg";
 import white_arrow from "./white_arrow.svg";
 
 import bottom_banner_image from "./bottom_banner_image.png";
-import bottom_banner_image_sm from "./bottom_banner_image_sm.png";
+import bottom_banner_mobile from "./bottom_banner_mobile.png";
 import add_address_iamge from "./add_address_image.svg";
 import organic_vegitable_image from "./organic_vegitable_image.png";
 import fresh_fruits_image from "./fresh_fruits_image.png";
@@ -95,8 +95,7 @@ export const assets = {
   trust_icon,
   black_arrow, white_arrow,
   banner, bannerMobile,
-  bottom_banner_image,
-  bottom_banner_image_sm,
+  bottom_banner_image, bottom_banner_mobile,
   add_address_iamge,
   box_icon,
 };
